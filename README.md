@@ -65,4 +65,4 @@ DeltaPerp provides a comprehensive API surface for both frontend interactions an
 
 <!-- Last Activity: 2026-01-29T11:13:53.741Z -->
 
-<!-- Last Activity: 2026-02-03T19:03:54.814Z -->
+<!-- Last Activity: 2026-02-03T20:03:55.788Z -->
